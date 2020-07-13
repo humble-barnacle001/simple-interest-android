@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loan Interest Calc</string>
+    <string name="phint">Enter Principal</string>
+    <string name="rhint">Enter Rate of Interest (per annum)</string>
+    <string name="thint">Enter Time (in years)</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="textview">TextView</string>
+</resources>
